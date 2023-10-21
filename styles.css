@@ -22,7 +22,7 @@ a, a:link, a:visited, a:hover, a:active {
 .section-header {
     font-size: 3em;
     padding-bottom: 20px;
-    font-family: 'Shadows Into Light';
+    font-family: 'Dancing Script';
 }
 
 .page-header {
@@ -60,12 +60,12 @@ a, a:link, a:visited, a:hover, a:active {
 .header-header {
     font-size: 4em;
     font-weight: 500;
-    font-family: 'Shadows Into Light';
+    font-family: 'Dancing Script';
 }
 
 .header-text {
     font-size: 3em;
-    font-family: 'Shadows Into Light';
+    font-family: 'Dancing Script';
 }
 
 .header {
@@ -79,12 +79,12 @@ a, a:link, a:visited, a:hover, a:active {
 
 .footer-name {
     font-size: 2em;
-    font-family: 'Shadows Into Light';
+    font-family: 'Dancing Script';
 }
 
 .footer-blonde-master {
     font-size: 1.5em;
-    font-family: 'Shadows Into Light';
+    font-family: 'Dancing Script';
     padding-bottom: 15px;
 }
 
