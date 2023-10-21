@@ -1,0 +1,97 @@
+body {
+    background-color: #0d1a00 !important;
+    color: #cea259 !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a, a:link, a:visited, a:hover, a:active {
+    color: inherit;
+    text-decoration: none;
+}
+
+.image-container {
+    padding-top: calc(var(--bs-gutter-x) * .5);
+    padding-bottom: calc(var(--bs-gutter-x) * .5);
+}
+
+.section {
+    padding-bottom: 30px;
+}
+
+
+.section-header {
+    font-size: 3em;
+    padding-bottom: 20px;
+    font-family: 'Shadows Into Light';
+}
+
+.page-header {
+    background-image: linear-gradient(to bottom, rgba(000, 000, 000, 1), rgba(100, 100, 100, 0.25)), url(./img/salon-header.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 800px;
+}
+
+.pricelist-name-row {
+    font-size: 1.3em;
+}
+
+.container {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.footer-header {
+    font-size: 1.5em;
+    padding-bottom: 10px;
+}
+
+.parking-text {
+    font-size: 1.3em;
+    padding-bottom: 20px;
+}
+
+.about-image {
+    display: block;
+    margin: auto;
+}
+
+.header-header {
+    font-size: 4em;
+    font-weight: 500;
+    font-family: 'Shadows Into Light';
+}
+
+.header-text {
+    font-size: 3em;
+    font-family: 'Shadows Into Light';
+}
+
+.header {
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.footer-day {
+    font-size: 1.2em;
+}
+
+.footer-name {
+    font-size: 2em;
+    font-family: 'Shadows Into Light';
+}
+
+.footer-blonde-master {
+    font-size: 1.5em;
+    font-family: 'Shadows Into Light';
+    padding-bottom: 15px;
+}
+
+.parking-picture {
+    max-width: 300px !important;
+}
+
+.footer-container {
+    padding-bottom: 20px;
+}
