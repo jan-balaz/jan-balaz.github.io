@@ -95,3 +95,23 @@ a, a:link, a:visited, a:hover, a:active {
 .footer-container {
     padding-bottom: 20px;
 }
+
+.page-footer {
+    background-image: linear-gradient(to bottom, rgba(000, 000, 000, 1), rgba(50, 50, 50, 0.7)), url(./img/salon4.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+}
+
+.modal-custom-body {
+    background-color: #cea259 !important;
+}
+
+.modal-custom-footer {
+    border-top: none !important;
+}
+
+.modal-close-button {
+    background-color: #0d1a00 !important;
+    color: #cea259 !important;
+}
